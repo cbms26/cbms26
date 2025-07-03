@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- 
 Secret GitHub Profile View. 
 1. Create repository with your GitHub username
@@ -15,7 +13,6 @@ Secret GitHub Profile View.
 
 - 🚀 I’m a **web dev** who enjoys the cycle of writing code, breaking stuff, and then fixing it again.
 - 🌱 I’m currently learning more about **React.js**.
-- My goal is to reach 
 - 📫 How to reach me: **ng.tenzin1998@gmail.com** or **coder.cbms@gmail.com**
 - ⚡ Fun fact: **I love playing Mobile Legends: Bang Bang**
 
