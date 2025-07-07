@@ -10,7 +10,7 @@ Secret GitHub Profile View.
 ### A web developer powered by coffee and curiosity from Bhutan.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=cbms26&label=Profile%20views&color=0e75b6&style=flat" alt="cbms26" />
+  <img src="https://komarev.com/ghpvc/?username=cbms26&label=Profile%20views&color=0e75b6&style=flat-square" alt="cbms26" />
 </p>
 
 - 🚀 I’m a **web dev** who enjoys the cycle of writing code, breaking stuff, and then fixing it again.
