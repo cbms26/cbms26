@@ -14,7 +14,7 @@ Secret GitHub Profile View.
 </p>
 
 - 🚀 I’m a **web dev** who enjoys the cycle of writing code, breaking stuff, and then fixing it again.
-- 🌱 I’m currently learning more about **React.js**.
+- 🌱 I’m currently learning more about **React-Native**.
 - 🎯 My goal is to become proficient in the MERN stack and contribute to open-source projects.
 - 📫 How to reach me: **ng.tenzin1998@gmail.com** or **coder.cbms@gmail.com**
 - ⚡ Fun fact: **I love playing Mobile Legends: Bang Bang**
